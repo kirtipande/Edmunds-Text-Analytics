@@ -1,3 +1,0 @@
-This problem is about scrapping Edmunds.com and deriving insights from the consumer discussions on the general forum.
-The Scripts consist of the jupyter notebook containing the python code to scarpe the website and calculate lift scores to look at association between the brands, understand attributes defining each brand and identify the brands people aspire to purchase just from the forum discussions.
-The Data folder comprises of the csv files of the scrapped data from the website as specified by the tasks in the jupyter notebook. It also comprises of a models and attributes csv file which is the mapping for the detailed terms with their uber level desriptive word.
