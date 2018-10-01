@@ -1,9 +1,7 @@
-## TEXT ANALYSIS on Edmunds.com
-
-### As an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. 
+TEXT ANALYSIS on Edmunds.com
+As an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. 
 The job was to give advice/insights to these individuals based on the analysis of social media conversations.Here for car manufactures we look at the car review site Edmunds.com to derive insights and see to that these brands not only talk the talk in their marketing campaigns but also walk the talk through our suggestions.
-
-#### In this project the following steps were taken:
+In this project the following steps were taken:
 1. Develop a crawler using Selenium on python to scrape the data from the comment sections of the General forum of Edmunds.com(around 5000 posts).
 2. Identify the top 10 brands being spoken about in the posts.( Here we replace model names with their respective brand using the models_new.csv file)
 3. Calculate lift scoring between brands to identify which brands are being spoken together about or being compared. Plot a MDS plot to visualize these relationships.
